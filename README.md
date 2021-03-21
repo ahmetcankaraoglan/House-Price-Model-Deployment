@@ -19,5 +19,5 @@ Repoyu olduğu gibi kopyalamanız veya forklamanız gerekmektedir.
 2. [Heroku](https://www.heroku.com/) 'dan hesap açılır.
 3. Create New App bölümünden yeni bir uygulama açılır ve isimlendirilir.
 4. Deploy bölümünde yer alan "Deployment Method" bölümünden Github seçilir.
-5. Mnist-Prediction isminde Github'ta yer alan repo ile eşleştirme yapılır.
+5. "House Price - Prediction" isminde Github'ta yer alan repo ile eşleştirme yapılır.
 6. Manual Deploy diyerek model deploy edilir.
